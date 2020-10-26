@@ -2,6 +2,8 @@
 
 **Support to Catalina | Tested on Catalina v10.15.4~v10.15.7**
 
+OpenCore version: 0.6.2
+
 | Hardware    | Model                                               |
 | ----------- | --------------------------------------------------- |
 | CPU         | i5-4590                                             |
@@ -21,6 +23,3 @@ Please read :
 https://dortania.github.io/OpenCore-Post-Install/universal/iservices.html#generate-a-new-serial
 
  ![](https://i.loli.net/2020/10/25/6GzS3hxZRTYEcW5.png)
-
-
-
