@@ -1,3 +1,4 @@
+**Moved to Linux, so this repository is no longer maintained!**
 # i5-4590-GT730-Hackintosh-OpenCore-EFI
 
 **Support to Catalina | Tested on Catalina v10.15.4~v10.15.7**
